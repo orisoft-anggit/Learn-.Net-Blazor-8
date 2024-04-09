@@ -1,5 +1,7 @@
 ﻿<Properties StartupConfiguration="{B2472027-6FA9-4253-A9C7-511655E701B9}|https">
   <MonoDevelop.Ide.ItemProperties.LearningBlazorApps PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -7,8 +9,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Components/Pages/AddNew.razor">
     <Files>
       <File FileName="Components/Pages/AddNew.razor" Line="18" Column="26" />
-      <File FileName="../LearningBlazorApps.Domain/Entities/Book.cs" Line="17" Column="1" />
-      <File FileName="../LearningBlazorApps.Domain/Enums/Category.cs" Line="6" Column="54" />
+      <File FileName="../LearningBlazorApps.Domain/Entities/Book.cs" />
+      <File FileName="../LearningBlazorApps.Domain/Enums/Category.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -41,6 +43,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
