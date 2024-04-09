@@ -1,0 +1,11 @@
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/bin/Debug/net8.0/LearningBlazorApps.Domain.deps.json
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/bin/Debug/net8.0/LearningBlazorApps.Domain.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/bin/Debug/net8.0/LearningBlazorApps.Domain.pdb
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/LearningBlazorApps.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/LearningBlazorApps.Domain.AssemblyInfoInputs.cache
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/LearningBlazorApps.Domain.AssemblyInfo.cs
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/LearningBlazorApps.Domain.csproj.CoreCompileInputs.cache
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/LearningBlazorApps.Domain.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/refint/LearningBlazorApps.Domain.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/LearningBlazorApps.Domain.pdb
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Domain/obj/Debug/net8.0/ref/LearningBlazorApps.Domain.dll

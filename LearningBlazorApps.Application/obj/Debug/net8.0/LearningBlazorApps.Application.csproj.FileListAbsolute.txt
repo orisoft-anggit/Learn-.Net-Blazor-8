@@ -1,0 +1,15 @@
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/bin/Debug/net8.0/LearningBlazorApps.Application.deps.json
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/bin/Debug/net8.0/LearningBlazorApps.Application.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/bin/Debug/net8.0/LearningBlazorApps.Application.pdb
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/bin/Debug/net8.0/LearningBlazorApps.Domain.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/bin/Debug/net8.0/LearningBlazorApps.Domain.pdb
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.csproj.AssemblyReference.cache
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.AssemblyInfoInputs.cache
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.AssemblyInfo.cs
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.csproj.CoreCompileInputs.cache
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/Learning.4CFF26E8.Up2Date
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/refint/LearningBlazorApps.Application.dll
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/LearningBlazorApps.Application.pdb
+/Users/anggitmarcellino/Projects/BelajarBlazor/LearningBlazorApps.Application/obj/Debug/net8.0/ref/LearningBlazorApps.Application.dll

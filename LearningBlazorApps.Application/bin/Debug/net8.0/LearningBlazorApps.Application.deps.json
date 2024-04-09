@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LearningBlazorApps.Application/1.0.0": {
+        "dependencies": {
+          "LearningBlazorApps.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LearningBlazorApps.Application.dll": {}
+        }
+      },
+      "LearningBlazorApps.Domain/1.0.0": {
+        "runtime": {
+          "LearningBlazorApps.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningBlazorApps.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningBlazorApps.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
